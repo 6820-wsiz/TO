@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Wykonanie przelewu z weryfikacją procesu logowania i uzupełnienia wszystkich wymaganych danych.</description>
+   <name>Przelew</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>600e9f35-acd2-428b-bae6-319969138e80</testCaseGuid>
+   <variable>
+      <defaultValue>'https://demobank.jaktestowac.pl/'</defaultValue>
+      <description></description>
+      <id>03b09470-d358-4221-b722-bafc4af3fb3e</id>
+      <masked>false</masked>
+      <name>baseUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'logowanie_etap_1.html'</defaultValue>
+      <description></description>
+      <id>f83fb402-b3da-44cd-94eb-28fe787f7db7</id>
+      <masked>false</masked>
+      <name>loginUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>94144fce-47a2-4ea0-b203-5850707b2aae</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>88f57398-a05b-4431-aa47-2b6037bc3a0a</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>82efb10e-2a6c-4450-a0ef-50fb91090a9c</id>
+      <masked>false</masked>
+      <name>quickRecipientID</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4253dd0d-9cb6-4350-8211-264a2b01754c</id>
+      <masked>false</masked>
+      <name>amount</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ebc7f3fb-2e16-499b-8353-5929e97f62e6</id>
+      <masked>false</masked>
+      <name>transferTitle</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_patnoci_i-nav-payments</name>
+   <tag></tag>
+   <elementGuidId>7a20e649-2390-4ab4-9119-8ce7fc6256cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.category > a.show-page-loader > i.i-nav-payments</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[3]/div/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>i-nav-payments</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js  no-ie8 no-ie9&quot;]/body[1]/section[@class=&quot;container&quot;]/div[@class=&quot;grid-wrapper&quot;]/div[@class=&quot;grid main-container&quot;]/nav[@class=&quot;nav-main&quot;]/ul[1]/li[3]/div[@class=&quot;category&quot;]/a[@class=&quot;show-page-loader&quot;]/i[@class=&quot;i-nav-payments&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/a/i</value>
+   </webElementXpaths>
+</WebElementEntity>

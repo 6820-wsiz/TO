@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test doładowania telefonu</description>
+   <name>Doladowanie_telefonu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>00c3375f-f564-4d53-a376-03696bb9e2df</testCaseGuid>
+   <variable>
+      <defaultValue>'https://demobank.jaktestowac.pl/'</defaultValue>
+      <description></description>
+      <id>7afd7d71-1515-4abf-9a59-144bcae90c38</id>
+      <masked>false</masked>
+      <name>baseUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'logowanie_etap_1.html'</defaultValue>
+      <description></description>
+      <id>a78a2042-24f9-4087-aa5f-de70a2a96e77</id>
+      <masked>false</masked>
+      <name>loginUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1304b523-492c-451e-9edb-64c65c81db99</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5da759b9-4c29-47aa-97fa-28336938a2f8</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>642261c0-75b1-4882-b311-68676e7aaea1</id>
+      <masked>false</masked>
+      <name>recipient</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2814cdb2-abcb-4bfc-a5d6-fcac8e7e0329</id>
+      <masked>false</masked>
+      <name>amount</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9b434af8-c260-4e77-bdd5-b33fc516ceb3</id>
+      <masked>false</masked>
+      <name>checkboxChecked</name>
+   </variable>
+</TestCaseEntity>
